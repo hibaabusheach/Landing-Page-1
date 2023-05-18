@@ -67,7 +67,7 @@ p, label {
   
 /* ======== Media's ======== */
 /* X-Small device (portrait phones, less than 576px) */
-@media screen and (min-width: 340px) and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     .div-1 {
         width: -webkit-fill-available;
         top: 105%;
